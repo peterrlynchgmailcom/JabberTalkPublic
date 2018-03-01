@@ -11,10 +11,10 @@
 		D07F1C6220477B260021CF67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07F1C6120477B260021CF67 /* ViewController.swift */; };
 		D07F1C6520477B260021CF67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D07F1C6320477B260021CF67 /* Main.storyboard */; };
 		D07F1C6820477B260021CF67 /* JabberTalkPublic.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D07F1C6620477B260021CF67 /* JabberTalkPublic.xcdatamodeld */; };
-		D07F1C6A20477B260021CF67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D07F1C6920477B260021CF67 /* Assets.xcassets */; };
 		D07F1C6D20477B260021CF67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D07F1C6B20477B260021CF67 /* LaunchScreen.storyboard */; };
 		D07F1C7820477B270021CF67 /* JabberTalkPublicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07F1C7720477B270021CF67 /* JabberTalkPublicTests.swift */; };
 		D07F1C8320477B270021CF67 /* JabberTalkPublicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07F1C8220477B270021CF67 /* JabberTalkPublicUITests.swift */; };
+		D07F1C9120477EC20021CF67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D07F1C9020477EC20021CF67 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +40,6 @@
 		D07F1C6120477B260021CF67 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D07F1C6420477B260021CF67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D07F1C6720477B260021CF67 /* JabberTalkPublic.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = JabberTalkPublic.xcdatamodel; sourceTree = "<group>"; };
-		D07F1C6920477B260021CF67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D07F1C6C20477B260021CF67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D07F1C6E20477B270021CF67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D07F1C7320477B270021CF67 /* JabberTalkPublicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JabberTalkPublicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +48,7 @@
 		D07F1C7E20477B270021CF67 /* JabberTalkPublicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JabberTalkPublicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D07F1C8220477B270021CF67 /* JabberTalkPublicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JabberTalkPublicUITests.swift; sourceTree = "<group>"; };
 		D07F1C8420477B270021CF67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D07F1C9020477EC20021CF67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../peterrlynchgmailcom-peterrlynchgmailcom-newcleankeyboard-e08ffe50f326-11-166e462626d1/newcleankeyboard/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +102,7 @@
 				D07F1C5F20477B260021CF67 /* AppDelegate.swift */,
 				D07F1C6120477B260021CF67 /* ViewController.swift */,
 				D07F1C6320477B260021CF67 /* Main.storyboard */,
-				D07F1C6920477B260021CF67 /* Assets.xcassets */,
+				D07F1C9020477EC20021CF67 /* Assets.xcassets */,
 				D07F1C6B20477B260021CF67 /* LaunchScreen.storyboard */,
 				D07F1C6E20477B270021CF67 /* Info.plist */,
 				D07F1C6620477B260021CF67 /* JabberTalkPublic.xcdatamodeld */,
@@ -236,7 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D07F1C6D20477B260021CF67 /* LaunchScreen.storyboard in Resources */,
-				D07F1C6A20477B260021CF67 /* Assets.xcassets in Resources */,
+				D07F1C9120477EC20021CF67 /* Assets.xcassets in Resources */,
 				D07F1C6520477B260021CF67 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
